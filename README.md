@@ -26,7 +26,7 @@ If you have any questions, please raise them in the [issue system](https://githu
 
 # 📦 ComfyUI 操作包 - 中文教程
 
-你好，请按照以下说明操作，处理 ComfyUI 操作所需的压缩包。 🤖
+你好，请按照以下说明操作，处理 ComfyUI 操作所需的压缩包。 🤖直接下载解压解压覆盖,就好!如果你装了很多节点,其他节点报错的,你只需要重装当前节点即可!
 
 ## 使用说明
 
